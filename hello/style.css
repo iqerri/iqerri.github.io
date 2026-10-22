@@ -1,11 +1,11 @@
      h1 {
-            color: violet;
+            color: rgb(238, 173, 130);
             background-color: blue;
       }
       p {
-        color: aqua;
+        color: rgb(251, 79, 20);
         font-size: large;
       }
       #pink {
-        color: pink;
+        color: rgb(158, 6, 13);
       }
